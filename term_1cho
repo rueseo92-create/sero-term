@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>1초 - 서비스 이용약관</title>
+<style>
+  @import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.css');
+  :root {
+    --bg: #FAFBFC; --surface: #FFFFFF; --text-primary: #191F28;
+    --text-secondary: #4E5968; --text-tertiary: #8B95A1;
+    --border-light: #F2F4F6; --accent: #3182F6;
+    --radius: 12px;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: 'Pretendard', -apple-system, BlinkMacSystemFont, sans-serif;
+    background: var(--bg); color: var(--text-primary);
+    line-height: 1.6; -webkit-font-smoothing: antialiased;
+    padding: 24px 20px 60px; max-width: 640px; margin: 0 auto;
+  }
+  .header { margin-bottom: 28px; }
+  .header h1 { font-size: 22px; font-weight: 700; letter-spacing: -0.02em; margin-bottom: 8px; }
+  .header .meta { font-size: 13px; color: var(--text-tertiary); }
+  .badge { display: inline-block; padding: 3px 8px; border-radius: 4px; font-size: 11px; font-weight: 600; margin-right: 6px; background: #FFF0EB; color: #FF6B35; }
+  .section {
+    background: var(--surface); border-radius: var(--radius);
+    border: 1px solid var(--border-light); padding: 24px;
+    margin-bottom: 16px; box-shadow: 0 1px 3px rgba(0,0,0,0.04);
+  }
+  .section h2 { font-size: 16px; font-weight: 700; margin-bottom: 16px; padding-bottom: 12px; border-bottom: 1px solid var(--border-light); }
+  .section p, .section li { font-size: 14px; color: var(--text-secondary); line-height: 1.7; }
+  .section ol, .section ul { padding-left: 20px; margin: 8px 0; }
+  .section li { margin-bottom: 4px; }
+  .section li ul { margin-top: 4px; }
+</style>
+</head>
+<body>
+
+<div class="header">
+  <h1>서비스 이용약관</h1>
+  <div class="meta"><span class="badge">필수</span> 시행일: 2026년 3월 16일 | 세로에이아이 · 1초</div>
+</div>
+
+<div class="section">
+  <h2>제1조 (목적)</h2>
+  <p>이 약관은 세로에이아이(이하 "회사")가 앱인토스(Apps-in-Toss) 플랫폼을 통해 제공하는 「1초」 서비스(이하 "서비스")의 이용과 관련하여 회사와 이용자 간의 권리, 의무 및 책임사항, 기타 필요한 사항을 규정함을 목적으로 합니다.</p>
+</div>
+
+<div class="section">
+  <h2>제2조 (정의)</h2>
+  <ol>
+    <li><strong>"서비스"</strong>란 회사가 토스(Toss) 앱 내 앱인토스 플랫폼을 통해 제공하는 반사신경 미니게임 및 부가 서비스를 말합니다.</li>
+    <li><strong>"이용자"</strong>란 이 약관에 따라 서비스를 이용하는 자를 말합니다.</li>
+    <li><strong>"토스 계정"</strong>이란 이용자가 토스 앱을 통해 보유한 계정을 말합니다.</li>
+    <li><strong>"게임 로그인"</strong>이란 앱인토스가 제공하는 게임 전용 로그인 방식으로, 별도의 동의 절차 없이 이용자를 식별하는 기능을 말합니다.</li>
+    <li><strong>"유료 아이템"</strong>이란 서비스 내에서 인앱 결제를 통해 구매할 수 있는 하트, 스킨 등 디지털 상품을 말합니다.</li>
+  </ol>
+</div>
+
+<div class="section">
+  <h2>제3조 (약관의 효력 및 변경)</h2>
+  <ol>
+    <li>이 약관은 서비스 화면에 게시하거나 기타의 방법으로 이용자에게 공지함으로써 효력이 발생합니다.</li>
+    <li>회사는 관련 법령을 위배하지 않는 범위에서 이 약관을 개정할 수 있으며, 개정 시 적용일자 및 개정사유를 명시하여 현행 약관과 함께 서비스 내 공지합니다.</li>
+    <li>이용자가 변경된 약관에 동의하지 않는 경우 서비스 이용을 중단하고 탈퇴할 수 있으며, 변경된 약관의 효력 발생일 이후에도 서비스를 계속 이용하는 경우 약관의 변경사항에 동의한 것으로 간주합니다.</li>
+  </ol>
+</div>
+
+<div class="section">
+  <h2>제4조 (서비스의 내용)</h2>
+  <p>회사가 제공하는 서비스의 내용은 다음과 같습니다.</p>
+  <ol>
+    <li>화면에 나타나는 미션을 제한 시간 내에 수행하는 반사신경 게임 서비스</li>
+    <li>게임 결과, 랭킹 및 출석 보상 제공</li>
+    <li>인앱 광고 및 인앱 결제를 통한 디지털 상품(하트, 스킨 등) 제공</li>
+    <li>기타 회사가 추가 개발하거나 제휴를 통해 제공하는 일체의 서비스</li>
+  </ol>
+</div>
+
+<div class="section">
+  <h2>제5조 (서비스의 이용)</h2>
+  <ol>
+    <li>서비스는 토스 앱 내 앱인토스 플랫폼을 통해 제공되며, 앱인토스 게임 로그인을 통해 이용할 수 있습니다.</li>
+    <li>서비스 이용 시간은 회사의 업무상 또는 기술상 특별한 지장이 없는 한 연중무휴 24시간을 원칙으로 합니다.</li>
+    <li>회사는 서비스의 제공에 필요한 경우 정기점검을 실시할 수 있으며, 정기점검 시간은 서비스 내에 공지합니다.</li>
+  </ol>
+</div>
+
+<div class="section">
+  <h2>제6조 (서비스의 변경 및 중단)</h2>
+  <ol>
+    <li>회사는 운영상, 기술상의 필요에 따라 제공하고 있는 서비스를 변경할 수 있습니다.</li>
+    <li>회사는 다음 각 호에 해당하는 경우 서비스의 전부 또는 일부를 제한하거나 중단할 수 있습니다.
+      <ul>
+        <li>서비스용 설비의 보수 등 공사로 인한 부득이한 경우</li>
+        <li>천재지변, 국가비상사태 등 불가항력적 사유가 있는 경우</li>
+        <li>앱인토스 플랫폼의 정책 변경 또는 서비스 중단</li>
+      </ul>
+    </li>
+    <li>회사는 서비스를 종료하고자 하는 경우 종료일로부터 30일 이전에 공지합니다.</li>
+  </ol>
+</div>
+
+<div class="section">
+  <h2>제7조 (이용자의 의무)</h2>
+  <p>이용자는 다음 행위를 하여서는 안 됩니다.</p>
+  <ol>
+    <li>서비스 이용 신청 또는 변경 시 허위 정보를 기재하는 행위</li>
+    <li>서비스를 통해 얻은 정보를 회사의 사전 승낙 없이 복제, 배포, 방송 등에 이용하는 행위</li>
+    <li>자동화된 수단(봇, 스크립트 등)을 이용하여 서비스에 접근하거나 게임 결과를 조작하는 행위</li>
+    <li>서비스의 안정적 운영을 방해하는 행위</li>
+    <li>타인의 개인정보를 도용하는 행위</li>
+    <li>비정상적인 방법으로 유료 아이템 또는 게임 점수를 취득하는 행위</li>
+    <li>기타 관계 법령에 위배되는 행위</li>
+  </ol>
+</div>
+
+<div class="section">
+  <h2>제8조 (유료 서비스 및 결제)</h2>
+  <ol>
+    <li>서비스 내 유료 아이템(하트, 스킨 등)은 앱인토스 인앱 결제를 통해 구매할 수 있습니다.</li>
+    <li>유료 아이템의 가격은 서비스 내에 표시된 금액에 따르며, 회사는 가격을 변경할 수 있습니다. 가격 변경 시 변경 전에 구매한 아이템에는 영향이 없습니다.</li>
+    <li>이용자가 구매한 유료 아이템은 서비스 내에서만 사용 가능하며, 현금으로 환급되지 않습니다.</li>
+    <li>유료 아이템의 환불은 「전자상거래 등에서의 소비자보호에 관한 법률」 등 관련 법령 및 앱인토스 플랫폼 정책에 따릅니다.</li>
+    <li>이용자의 구매 착오, 미성년자의 결제 등에 대한 환불은 관련 법령이 정하는 바에 따릅니다.</li>
+    <li>서비스 종료 시 미사용 유료 아이템에 대해서는 관련 법령에 따라 보상합니다.</li>
+  </ol>
+</div>
+
+<div class="section">
+  <h2>제9조 (광고)</h2>
+  <ol>
+    <li>회사는 서비스 운영과 관련하여 앱인토스가 제공하는 인앱 광고(전면형 광고, 보상형 광고 등)를 서비스 내에 게재할 수 있습니다.</li>
+    <li>보상형 광고는 이용자가 자발적으로 선택한 경우에만 노출되며, 광고 시청에 대한 보상(게임 이어하기, 점수 보너스 등)이 제공됩니다.</li>
+    <li>이용자가 광고를 통해 제3자가 제공하는 서비스와 거래하는 경우, 이는 이용자와 제3자 간의 거래이며 회사는 이에 대해 책임을 지지 않습니다.</li>
+  </ol>
+</div>
+
+<div class="section">
+  <h2>제10조 (지식재산권)</h2>
+  <ol>
+    <li>서비스에 포함된 디자인, 미션 구성, 소프트웨어, 음향 효과 등 일체의 지식재산권은 회사에 귀속됩니다.</li>
+    <li>이용자는 서비스를 통해 제공받은 콘텐츠를 개인적, 비상업적 용도로만 이용할 수 있습니다.</li>
+    <li>이용자가 서비스 이용 과정에서 생성한 게임 결과, 점수 등의 데이터에 대한 권리는 회사에 귀속됩니다.</li>
+  </ol>
+</div>
+
+<div class="section">
+  <h2>제11조 (면책조항)</h2>
+  <ol>
+    <li>회사는 천재지변 또는 이에 준하는 불가항력으로 인하여 서비스를 제공할 수 없는 경우에는 책임이 면제됩니다.</li>
+    <li>회사는 이용자의 귀책사유로 인한 서비스 이용의 장애에 대하여 책임을 지지 않습니다.</li>
+    <li>회사는 이용자가 서비스를 이용하여 기대하는 결과를 얻지 못하거나 서비스에서 제공하는 정보에 대한 취사선택 또는 이용으로 발생하는 손해 등에 대해 책임을 지지 않습니다.</li>
+    <li>회사는 이용자의 기기 환경, 네트워크 상태 등으로 인한 게임 플레이 지장에 대해 책임을 지지 않습니다.</li>
+  </ol>
+</div>
+
+<div class="section">
+  <h2>제12조 (분쟁 해결)</h2>
+  <ol>
+    <li>이 약관에 명시되지 않은 사항은 관계 법령 및 상관례에 따릅니다.</li>
+    <li>서비스 이용과 관련하여 분쟁이 발생한 경우 양 당사자는 분쟁의 해결을 위해 성실히 협의합니다.</li>
+    <li>전항의 협의에도 불구하고 분쟁이 해결되지 않는 경우 관할법원은 민사소송법에 따른 법원으로 합니다.</li>
+  </ol>
+</div>
+
+<div class="section">
+  <h2>부칙</h2>
+  <p>이 약관은 2026년 3월 16일부터 시행합니다.</p>
+</div>
+
+</body>
+</html>
